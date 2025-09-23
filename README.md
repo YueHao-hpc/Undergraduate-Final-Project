@@ -1,6 +1,6 @@
 
 
-🚀 Usage
+Usage
 
 1. Environment Setup
 
@@ -34,7 +34,7 @@ Training scripts output learning curves, confusion matrices, and classification 
 
 ⸻
 
-📊 Experimental Results
+Experimental Results
 
 All three models achieved 98%+ accuracy on the validation dataset:
 	•	MLP: Fast convergence, strong generalization, suitable for lightweight deployment.
@@ -43,11 +43,9 @@ All three models achieved 98%+ accuracy on the validation dataset:
 
 ⸻
 
-🔮 Future Work
+Future Work
 	•	Explore online learning and domain adaptation for cross-device and cross-environment robustness.
 	•	Apply model compression (pruning, quantization, distillation) for efficient edge deployment.
 	•	Incorporate explainable AI methods (e.g., saliency maps, attention visualization) to improve transparency and trust.
 
-⸻
 
-Would you like me to also make a bilingual README (English + Chinese) in one file, so it’s ready for GitHub and international readers?
